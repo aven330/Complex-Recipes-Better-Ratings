@@ -43,7 +43,7 @@ I then computed the average rating per recipe and merged this back into the reci
 This cleaning process ensures that our dataset accurately reflects user ratings while avoiding duplication from multiple reviews.
 
 
-|header|foot
+|header|:--||foot|
 ## Plots
 
 <iframe src="assets/fig_bivariate_analysis_1.html" width="800" height="600" frameborder="0"></iframe>
